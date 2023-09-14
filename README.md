@@ -1,0 +1,1 @@
+Demo project to illustrate the use of MediatR and CQRS.
